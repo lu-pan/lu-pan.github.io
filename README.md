@@ -12,4 +12,4 @@
 3. etc..
 4. **BUGS** and _This is the author_ and `Code` 
 
-Welcome to visit [Lyon e-planets team] (http://eplanets.univ-lyon1.fr)
+Welcome to visit [Lyon e-planets team](http://eplanets.univ-lyon1.fr)
