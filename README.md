@@ -1,28 +1,15 @@
-## This is a title
+## Welcome to Lu Pan's page
 
-### Markdown
-
-
-```markdown
-This is a corner of the world...
-
-# Hello world
-## Hello europe
-### Hello barcelona
+### Here are just some random words...
 
 - Work
 - Life
 - Others
 
-Things I hate:
+### Things I hate:
 1. mosquitos
 2. flies
 3. etc..
+4. **BUGS** and _This is the author_ and `Code` 
 
-**MY work** and _This is the author_ and `Code` 
-
-
-[Link](url) and ![Image](src)
-```
-
-###For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Welcome to visit [Lyon e-planets team] (http://eplanets.univ-lyon1.fr)
