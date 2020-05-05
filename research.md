@@ -1,4 +1,4 @@
-## This is the page on research
+# research
 
 - Mars northern lowlands ocean
 - Landing sites for Mars missions
