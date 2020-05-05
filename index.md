@@ -1,8 +1,5 @@
-# Welcome
-
-- [En cherchant](http://lu-pan.github.io/research.md)
-- [C'est la vie](http://lu-pan.github.io/life.md)
-- [Miscellanous](http://lu-pan.github.io/misc.md)
+## Welcome
+Welcome to my blog.
 
 
 ### A few random links
