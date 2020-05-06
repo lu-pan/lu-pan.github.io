@@ -1,6 +1,6 @@
  
 
-![martian-sunset](/418_PIA07997_A_Martian_Sunset (2).jpg){:class="img-responsive"}
+![martian-sunset](/img/418_PIA07997_A_Martian_Sunset (2).jpg){:class="img-responsive"}
 
 
 
