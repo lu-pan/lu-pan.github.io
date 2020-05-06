@@ -9,7 +9,11 @@ date: 2020-05-08
 
 - 地貌学
 
-最近读了很多关于地貌学的东西，很多看似很简单的问题其实没有简单的答案。比如如何根据冲积扇的沉积物推测搬运这些沉积物的水流量，比如河流的蜿蜒的尺度会留下什么沉积证据，，比如多边形的地貌和水冰的丰度有什么关系。这个时候其实我们是在一个全黑的房子里面寻找一点点亮光。通常情况下我们会想用deterministic的模型去解释我们遇到的所有事情，但有些问题太复杂，牵扯的变量太多，无论如何都无法接近真相的时候，通过 “heuristic” 或者“rule-of-thumb” 的方法或许会更多的帮到我们。
+最近读了很多关于地貌学的东西，很多看似很简单的问题其实没有简单的答案。比如如何根据冲积扇的沉积物推测搬运这些沉积物的水流量，比如河流的蜿蜒的尺度会留下什么沉积证据，，比如多边形的地貌和水冰的丰度有什么关系。这个时候其实我们是在一个全黑的房子里面寻找一点点亮光。通常情况下我们会想用deterministic的模型去解释我们遇到的所有事情，但有些问题太复杂，牵扯的变量太多，无论如何都无法接近真相的时候，通过 “heuristic” 或者“rule-of-thumb” 的方法或许会更多的帮到我们接近真像。
+
+Definition from wiki: A heuristic technique (/hjʊəˈrɪstɪk/; Ancient Greek: εὑρίσκω, "find" or "discover"), or a heuristic, is any approach to problem solving or self-discovery that employs a practical method that is not guaranteed to be optimal, perfect or rational, but which is nevertheless sufficient for reaching an immediate, short-term goal. Where finding an optimal solution is impossible or impractical, heuristic methods can be used to speed up the process of finding a satisfactory solution. Heuristics can be mental shortcuts that ease the cognitive load of making a decision. Examples that employ heuristics include using trial and error, a rule of thumb or an educated guess.
+
+
 
 - 花花草草
 
