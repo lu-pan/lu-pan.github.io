@@ -4,7 +4,9 @@
 
 
 
-Hello world! Thanks for dropping by. There is nothing new under the sun, but the sun looks different through the dusty atmosphere on Mars.
-Image credit goes to NASA/JPL. 
+Hello world! Welcome to my page. I am a planetary geologist interested in the geologic and climatic evolution of planets. I am now working (from home) as everyone in the University of Copenhagen.
 
-This is a little corner for note taking and random scribbles...
+*************************************************
+
+##News
+- 
