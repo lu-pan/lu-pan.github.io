@@ -11,7 +11,7 @@ Hello world! My name is Lu Pan. I am a planetary geologist interested in the geo
 
 As a planetary scientist, I am interested in all sorts of chemical and physical surface processes that occur on planetary bodies, and how a planet evolves through fluvial, aeolian, impact and volcanic activities. I am also trying to better understand and develop the techniques to document and resolve geological processes using remote sensing, in particular, through spectroscopy. 
 
-I am recently involved in the Mars [InSight lander](https://www.jpl.nasa.gov/missions/insight/) and Mars Science Laboratory ([Curiosity rover](https://www.jpl.nasa.gov/missions/mars-science-laboratory-curiosity-rover-msl/)) missions as an external collaborator. I am also involved in landing site selection and characterization of the Rosalind Franklin rover in the ExoMars mission. 
+I am recently involved in the Mars [InSight lander](https://www.jpl.nasa.gov/missions/insight/) and Mars Science Laboratory ([Curiosity rover](https://www.jpl.nasa.gov/missions/mars-science-laboratory-curiosity-rover-msl/)) missions as an external collaborator. I am also involved in landing site selection and characterization of the Rosalind Franklin rover in the [ExoMars mission](http://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars). 
 
  	
 *************************************************
@@ -28,7 +28,7 @@ I am recently involved in the Mars [InSight lander](https://www.jpl.nasa.gov/mis
     -  [starplan](https://starplan.dk): Center for star and planet formation, University of Copenhagen
     -  [Mars group](https://www.nbi.ku.dk/english/research/astrophysics/mars/) The Mars group at the Niels Bohr Institute, University of Copenhagen
 
- - Organizations
+ - Organizations and teams
     - [MSCA H2020 Action](https://ec.europa.eu/research/mariecurieactions/): Marie Curie Fellowship Action
     - [CRISM](http://crism.jhuapl.edu/): Compact Reconnaissance Imaging Spectrometer on Mars
     - [InSight mission](https://www.jpl.nasa.gov/missions/insight/) : NASA mission to put a seismometer, a heat flow sensor and a radio science instrument on Mars.
