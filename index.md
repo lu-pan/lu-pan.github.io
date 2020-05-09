@@ -11,12 +11,15 @@
 
 Hello world! My name is Lu Pan. I am a planetary geologist interested in the geologic and climatic evolution of planets. I am now working (from home) as everyone else, affiliated with the University of Copenhagen. Before moving to Copenhagen at beginning of March, I was a postdoc researcher at the University of Lyon. 
 
-I am interested in all sorts of surface processes that occur on planetary bodies, including fluvial, aeolian, impact and volcanic processes. I am also trying to better understand and develop the techniques to document and resolve geological processes using remote sensing methods, in particular, spectroscopy.
+As a planetary scientist, I am interested in all sorts of chemical and physical surface processes that occur on planetary bodies, and how a planet evolves through fluvial, aeolian, impact and volcanic activities. I am also trying to better understand and develop the techniques to document and resolve geological processes using remote sensing, in particular, through spectroscopy. 
+
+I am recently involved in the Mars [InSight lander](https://www.jpl.nasa.gov/missions/insight/) and Mars Science Laboratory ([Curiosity rover](https://www.jpl.nasa.gov/missions/mars-science-laboratory-curiosity-rover-msl/)) missions as an external collaborator. I am also involved in landing site selection and characterization of the Rosalind Franklin rover in the ExoMars mission. 
 
 *************************************************
 
 **News:**
-- 2020.3 We celebrated the publication of InSight papers on Nature Geoscience at the team meeting in Nice, France. I have officially moved to Denmark at the beginning of March.
+- 2020.3 I have officially moved to Denmark at the beginning of March, but unfortunately I also had to work from home due to covid-19.
+- 2020.2 We celebrated the publication of InSight papers on Nature Geoscience at the team meeting in Nice, France. Nice weather and location for a team meeting! 
 
 ************************************************
 
