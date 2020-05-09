@@ -5,7 +5,7 @@
 *****
 
 
-<img src="/img/IMG_1152.jpg" alt="lu-pan" width="300" style="float left"/> 	**Lu Pan,** *Postdoc reseracher @University of Copenhagen, GLOBE institute*
+<img src="/img/IMG_1152.jpg" alt="lu-pan" width="300" style="float left"/> 	**Lu Pan,** *Postdoc reseracher @University of Copenhagen*
 
 Hello world! My name is Lu Pan. I am a planetary geologist interested in the geologic and climatic evolution of planets. I am now working (from home) as everyone else, affiliated with the University of Copenhagen. Before moving to Copenhagen at beginning of March, I was a postdoc researcher at the University of Lyon. 
 
