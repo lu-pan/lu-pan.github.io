@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Research
+title: En cherchant
 permalink: /research/
 ---
