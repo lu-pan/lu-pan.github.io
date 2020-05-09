@@ -2,10 +2,11 @@
 
 ![martian-sunset](img/418_PIA07997_A_Martian_Sunset (2).jpg){:class="img-responsive"}
 
+*Image of a martian sunset taken by Spirit rover. Image credit: NASA/JPL*
 
 **Intro:**
-![lu-pan](img/IMG_1152.jpg){style="float: left": height="36px" width="36px"}
 
+![lu-pan](img/IMG_1152.jpg){style="float: left": height="250px" width="250px"}
 Hello world! Welcome to my page. My name is Lu Pan. I am a planetary geologist interested in the geologic and climatic evolution of planets. I am now working (from home) as everyone else, affiliated with the University of Copenhagen. Before moving to Copenhagen at beginning of March, I was a postdoc researcher at the University of Lyon. 
 
 *************************************************
