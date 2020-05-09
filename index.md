@@ -5,11 +5,9 @@
 
 *****
 
-![image alt <](/img/IMG_1152.jpg)
+| <img src="/img/IMG_1152.jpg" alt="lu-pan" width="350" style="float left"/> 	 	| Lu Pan, PhD  <br> *Postdoctoral fellow @ University of Copenhagen*  <br>  *GLOBE institute, Center for Star and Planet Formation* 	|
+|:-----------:	|:----------:	|
 
-**Lu Pan, PhD**
-
-*Postdoctoral fellow @ University of Copenhagen, GLOBE institute, Center for Star and Planet Formation*
 
 Hello world! My name is Lu Pan. I am a planetary geologist interested in the geologic and climatic evolution of planets. I am now working (from home) as everyone else, affiliated with the University of Copenhagen. Before moving to Copenhagen at beginning of March, I was a postdoc researcher at the University of Lyon. 
 
