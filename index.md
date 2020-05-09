@@ -1,12 +1,10 @@
  ![martian-sunset](img/418_PIA07997_A_Martian_Sunset (2).jpg){:class="img-responsive"}
 *****
-*Image of a martian sunset taken by Spirit rover. Image credit: NASA/JPL*
 
+*Image of a martian sunset taken by Spirit rover. Image credit: NASA/JPL*
 
 *****
 
-| <img src="/img/IMG_1152.jpg" alt="lu-pan" width="350" style="float left"/> 	 	| Lu Pan, PhD  <br> *Postdoctoral fellow @ University of Copenhagen*  <br>  *GLOBE institute, Center for Star and Planet Formation* 	|
-|:-----------:	|:----------------:	|
 
 
 Hello world! My name is Lu Pan. I am a planetary geologist interested in the geologic and climatic evolution of planets. I am now working (from home) as everyone else, affiliated with the University of Copenhagen. Before moving to Copenhagen at beginning of March, I was a postdoc researcher at the University of Lyon. 
@@ -15,6 +13,8 @@ As a planetary scientist, I am interested in all sorts of chemical and physical 
 
 I am recently involved in the Mars [InSight lander](https://www.jpl.nasa.gov/missions/insight/) and Mars Science Laboratory ([Curiosity rover](https://www.jpl.nasa.gov/missions/mars-science-laboratory-curiosity-rover-msl/)) missions as an external collaborator. I am also involved in landing site selection and characterization of the Rosalind Franklin rover in the ExoMars mission. 
 
+| <img src="/img/IMG_1152.jpg" alt="lu-pan" width="350" style="float left"/> 	 	| Lu Pan, PhD  <br> *Postdoctoral fellow @ University of Copenhagen*  <br>  *GLOBE institute, Center for Star and Planet Formation* 	|
+|:-----------:	|:----------------:	|
 *************************************************
 
 **News:**
