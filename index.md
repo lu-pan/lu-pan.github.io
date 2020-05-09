@@ -9,7 +9,6 @@
 
 **Intro:**
 
-![lu-pan](img/IMG_1152.jpg){style="float: left": height="250px" width="250px"}
 Hello world! Welcome to my page. My name is Lu Pan. I am a planetary geologist interested in the geologic and climatic evolution of planets. I am now working (from home) as everyone else, affiliated with the University of Copenhagen. Before moving to Copenhagen at beginning of March, I was a postdoc researcher at the University of Lyon. I am interested in all sorts of surface processes that occur on planetary bodies, including fluvial, aeolian, impact, volcanic processes etc., as well as improving the techniques to record and understand these processes, in particular, spectroscopy. 
 
 *************************************************
