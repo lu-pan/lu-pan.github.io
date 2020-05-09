@@ -1,9 +1,7 @@
  ![martian-sunset](img/418_PIA07997_A_Martian_Sunset (2).jpg){:class="img-responsive"}
- 
 *Image of a martian sunset taken by Spirit rover. Image credit: NASA/JPL*
 
 *****
-
 
 <img src="/img/IMG_1152.jpg" alt="lu-pan" width="300" style="float left"/> 	**Lu Pan,** *Postdoc reseracher @University of Copenhagen*
 
@@ -36,3 +34,12 @@ I am recently involved in the Mars [InSight lander](https://www.jpl.nasa.gov/mis
  - Outreach/fun
     - [planet crash](http://www.stefanom.org/spc/)
     - [curiosity](https://eyes.nasa.gov/curiosity/)
+
+************************************************
+**Contact information**
+
+Centre for Star and Planet Formation <br> Øster Voldgade 5-7 <br> 1350 København K
+
+Email: lu.pan@sund.ku.dk 
+
+ORCID: 0000-0002-8151-2125
