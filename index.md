@@ -5,8 +5,8 @@
 
 **Intro:**
 
-![lu-pan](img/IMG_1152.jpg){:class="img-responsive": style="width : 250; float: left"}
 Hello world! Welcome to my page. My name is Lu Pan. I am a planetary geologist interested in the geologic and climatic evolution of planets. I am now working (from home) as everyone else, affiliated with the University of Copenhagen. Before moving to Copenhagen at beginning of March, I was a postdoc researcher at the University of Lyon. 
+![lu-pan](img/IMG_1152.jpg){:class="img-responsive": style="float: left": height="36px" width="36px"}
 
 *************************************************
 
