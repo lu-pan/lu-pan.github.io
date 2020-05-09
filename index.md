@@ -1,11 +1,7 @@
  ![martian-sunset](img/418_PIA07997_A_Martian_Sunset (2).jpg){:class="img-responsive"}
-
+*****
 *Image of a martian sunset taken by Spirit rover. Image credit: NASA/JPL*
 
-
-*****
-
-**Hello world**
 
 *****
 
