@@ -30,17 +30,18 @@ I am recently involved in the Mars [InSight lander](https://www.jpl.nasa.gov/mis
 
 **Useful links**
  - Research groups   
-    -  [e-planets](http://eplanets.univ-lyon1.fr/): Planetary science team in University of Lyon. 
-    -  [starplan](https://starplan.dk): Center for star and planet formation, University of Copenhagen
-    -  [Mars group](https://www.nbi.ku.dk/english/research/astrophysics/mars/) The Mars group at the Niels Bohr Institute, University of Copenhagen
+    -  [e-Planets team in University of Lyon](http://eplanets.univ-lyon1.fr/)  
+    -  [Center for star and planet formation, University of Copenhagen](https://starplan.dk)
+    -  [The Mars group at the Niels Bohr Institute, University of Copenhagen
+](https://www.nbi.ku.dk/english/research/astrophysics/mars/) 
 
  - Organizations and teams
-    - [MSCA H2020 Action](https://ec.europa.eu/research/mariecurieactions/): Marie Curie Fellowship Action
-    - [CRISM](http://crism.jhuapl.edu/): Compact Reconnaissance Imaging Spectrometer on Mars
-    - [InSight mission](https://www.jpl.nasa.gov/missions/insight/) : NASA mission to put a seismometer, a heat flow sensor and a radio science instrument on Mars.
+    - [MSCA H2020 Action](https://ec.europa.eu/research/mariecurieactions/)
+    - [CRISM](http://crism.jhuapl.edu/)
+    - [InSight mission](https://www.jpl.nasa.gov/missions/insight/)
     
  - Outreach/fun
-    - [planet crash](http://www.stefanom.org/spc/)
+    - [planet crash](http://www.stefanom.org/spc/): 
     - [curiosity](https://eyes.nasa.gov/curiosity/)
 
 ************************************************
