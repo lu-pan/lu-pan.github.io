@@ -26,7 +26,7 @@ When I'm not looking at images of Mars, I enjoy playing volleyball 🏐and hikin
 **Contact information**
 
 
-**Lu Pan,** *Postdoc reseracher @University of Copenhagen*
+**Lu Pan,** *Postdoc researcher @ University of Copenhagen*
  	
 Centre for Star and Planet Formation <br> Øster Voldgade 5-7 <br> 1350 København K
 
