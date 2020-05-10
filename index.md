@@ -49,6 +49,7 @@ ORCID: 0000-0002-8151-2125
     -  [Center for star and planet formation, University of Copenhagen](https://starplan.dk)
     -  [The Mars group at the Niels Bohr Institute, University of Copenhagen
 ](https://www.nbi.ku.dk/english/research/astrophysics/mars/) 
+    -  [Ehlmann research group, Caltech](http://www.ehlmann.caltech.edu/index.html)
 
  - Organizations and Mars missions
     - [MSCA H2020 Action](https://ec.europa.eu/research/mariecurieactions/)
