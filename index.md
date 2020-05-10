@@ -41,8 +41,8 @@ I am recently involved in the Mars [InSight lander](https://www.jpl.nasa.gov/mis
     - [InSight mission](https://www.jpl.nasa.gov/missions/insight/)
     
  - Outreach/fun
-    - [planet crash](http://www.stefanom.org/spc/): 
-    - [curiosity](https://eyes.nasa.gov/curiosity/)
+    - [Super Planet Crash](http://www.stefanom.org/spc/): 
+    - [Eyes on Mars: Curiosity](https://eyes.nasa.gov/curiosity/)
 
 ************************************************
 **Contact information**
