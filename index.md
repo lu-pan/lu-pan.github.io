@@ -45,12 +45,12 @@ ORCID: 0000-0002-8151-2125
 
 **Useful links**
  - Research groups   
-    -  [e-Planets team in University of Lyon](http://eplanets.univ-lyon1.fr/)  
+    -  [e-Planets team, University of Lyon](http://eplanets.univ-lyon1.fr/)  
     -  [Center for star and planet formation, University of Copenhagen](https://starplan.dk)
     -  [The Mars group at the Niels Bohr Institute, University of Copenhagen
 ](https://www.nbi.ku.dk/english/research/astrophysics/mars/) 
 
- - Organizations and teams
+ - Organizations and Mars missions
     - [MSCA H2020 Action](https://ec.europa.eu/research/mariecurieactions/)
     - [CRISM](http://crism.jhuapl.edu/)
     - [InSight mission](https://www.jpl.nasa.gov/missions/insight/)
