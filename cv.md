@@ -1,6 +1,6 @@
 ---
 layout: page
-title: cv
+title: resume
 permalink: /cv/
 ---
 
@@ -9,26 +9,32 @@ You could find the full version of my CV here.
 - Academic position
    - Mar 2020 — Present : University of Copenhagen
    - Jul 2017 — Feb 2020: Universite de Lyon, Universite Claude Bernard Lyon 1, ENS de Lyon, LGLTEP.
-     - 2017-2019 Marie Curie Individual Fellow
-     - 2019-2020 Postdoc fellow supported by ANR grant
+      - 2017-2019 Marie Curie Individual Fellow
+      - 2019-2020 Postdoc fellow supported by ANR grant
+
 
 - EDUCATION
    - Sep 2008 — Jul 2012: Peking University BSc: Geology
       - Exchange at University of Hong Kong from Sep 2009 to Jan 2010.
    - Oct 2012 — Jun 2017: California Institute of Technology PhD: Planetary Science
 
+
+
 - PUBLICATIONS
-  - Please refer to my Publication page for full publication list.
+  - Please refer to my Publication page for full [publication list](./pub.md).
+
 
 - AWARDS AND FELLOWSHIP
   - 2016.2 Li Ming Scholarship, Caltech
   - 2015.9 Student travel grant for Bridging the Gap III (Freiburg, Germany)
   - 2014.6 Travel award for 3rd Conference on Earth System Science
 
+
 - ACADEMIC SERVICES
   - Peer review: Reviewer for European Journal of Mineralogy, Remote Sensing, Science Bulletin China
   - Peer review: Panelist for NASA Solar System Workings 
   - Conference: Served as session chair for Impact cratering processes: from planetesimals to planets, 2019 Lunar and Planetary Science Conference
+
 
 - TEACHING EXPERIENCE
   - Research mentors for:
@@ -39,6 +45,7 @@ You could find the full version of my CV here.
       - 2015 Fall: Ge114a Mineralogy
       - 2015 Spring: Ge1 Introduction to Geology
       - 2014 Spring: Ge157c Geological application of Remote Sensing
+
 
 - OUTREACH EXPERIENCE
    - 2014/12/09 Adat Ari El Day School Mars research lab tour
