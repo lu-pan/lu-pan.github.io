@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Publications
-permalink: /pub/
+title: resume
+permalink: /cv/
 ---
 
 You could find the full version of my CV here.
