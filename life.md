@@ -1,6 +1,6 @@
 ---
 layout: page
-title: C'est la vie
+title: vie
 permalink: /life/
 ---
 
