@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: pub
 permalink: /pub/
 ---
 **Peer-reviewed publications**
