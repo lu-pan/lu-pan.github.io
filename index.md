@@ -32,8 +32,6 @@ Centre for Star and Planet Formation <br> Øster Voldgade 5-7 <br> 1350 Københa
 
 Email: lu.pan@sund.ku.dk 
 
-ORCID: 0000-0002-8151-2125
-
 
 *************************************************
 
