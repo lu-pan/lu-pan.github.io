@@ -4,7 +4,7 @@ title: cv
 permalink: /cv/
 ---
 
-You could find the full version of my CV [here](./cv/cv.pdf).
+You could find the full version of my CV [here](./doc/cv.pdf).
 
 **EDUCATION**
 - Oct 2012 — Jun 2017 : *California Institute of Technology* __PhD: Planetary Science__
