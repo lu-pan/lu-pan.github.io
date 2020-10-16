@@ -12,11 +12,12 @@ layout: home
 
 
 <img src="/img/IMG_1152.jpg" alt="lu-pan" width="300"/> 	
-Hello world! My name is Lu Pan. I am a planetary geologist interested in the geologic and climatic evolution of planets. I am now working (from home) as everyone else, affiliated with the University of Copenhagen. Before moving to Copenhagen at beginning of March, I was a Marie Curie postdoc fellow at the University of Lyon. 
+Hello world! My name is Lu Pan. I am a planetary geologist interested in the geologic and climatic evolution of planets. I am now affiliated with the University of Copenhagen. Before moving to Copenhagen at beginning of March, I was a Marie Curie postdoc fellow at the University of Lyon. 
 
-As a planetary scientist, I am interested in all sorts of chemical and physical surface processes that occur on planetary bodies, and how a planet evolves through fluvial, aeolian, impact and volcanic activities. I am also trying to better understand and develop the techniques to document and resolve geological processes using remote sensing, in particular, through spectroscopy. I am recently involved in the Mars [InSight lander](https://www.jpl.nasa.gov/missions/insight/) and [Mars Science Laboratory](https://www.jpl.nasa.gov/missions/mars-science-laboratory-curiosity-rover-msl/) missions as an external collaborator. I also participated in the landing site selection and characterization of the Rosalind Franklin rover in the [ExoMars mission](http://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars). 
+As a planetary scientist, I am interested in the chemical and physical processes that shape the surfaces of planetary bodies, and how a planet evolves through time. I am also trying to better understand and develop the techniques to document and resolve geological processes using remote sensing, in particular, through spectroscopy. I am recently involved in the Mars [InSight lander](https://www.jpl.nasa.gov/missions/insight/) and [Mars Science Laboratory](https://www.jpl.nasa.gov/missions/mars-science-laboratory-curiosity-rover-msl/) missions as an external collaborator. I also participated in the landing site selection and characterization of the Rosalind Franklin rover in the [ExoMars mission](http://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars). 
 
-When I'm not looking at images of Mars, I enjoy playing volleyball 🏐and hiking ⛰. I'm also a big fan of coffee and tropical fruits 🍍🍍🍍.
+When I'm not looking at images of Mars, I enjoy playing volleyball 🏐 and hiking ⛰. I'm also a big fan of coffee and tropical fruits 🍍🍍🍍.
+
 ************************************************
 
 **Contact information**
