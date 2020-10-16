@@ -8,7 +8,7 @@ permalink: /pub/
 *Incoming* 
 - **Pan, L.**,  C. Quantin-Nataf, L. Mandon, M. Martinot, P. Beck. Endmember variability in spectral unmixing on hyperspectral imaging dataset -implications for planetary surfaces. *in prep*.
 - Mandon L., P. Beck, C. Quantin-Nataf, E. Dehouck, A. Pommerol, Z. Yoldi, R. Cerubini, **L.Pan**, M. Martinot, J.-A. Barrat, B. Reynard, Martian meteorites reflectance and implications forin situ studies, *in prep*.
-- Liu Z., Y. Liu, **L. Pan**, J. Zhao,  Inverted channel belt to the East of Tempe Terra, Mars, and implications for persistent fluvial activity. *Earth and Planetary Science Letters*, \*under review*. arXiv preprint arXiv:2009.02699 (2020).
+- Liu Z., Y. Liu, **L. Pan**, J. Zhao,  Inverted channel belt to the East of Tempe Terra, Mars, and implications for persistent fluvial activity. *Earth and Planetary Science Letters*, *under review*. arXiv preprint arXiv:2009.02699 (2020).
 - **Pan, L.**, J. Carter, C. Quantin-Nataf, M. Pineau, B. Chauvire, L. Le Deit, N. Mangold, B. Rondeau, V. Chevrier. Voluminous silica precipitation in late martian waters, *Planetary Science Journal*, *under revision*.
  - Mandon L., A. Parkes Bowen, C. Quantin-Nataf, J. C. Bridges, J. Carter, **L. Pan**, P. Beck, E. Dehouck, M. Volat, N. Thomas, G. Cremonese, L. L. Tornabene, Morphological and spectral diversity of the clay-bearing unit at the ExoMars landing site Oxia Planum, *Astrobiology*, *under revision*.
  
