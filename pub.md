@@ -23,14 +23,14 @@ permalink: /pub/
    - **Pan, L.**,  C. Quantin-Nataf, S. Breton, and C. Michaut. (2019). The Impact Origin and Evolution of Chryse Planitia on Mars Revealed by Buried Craters. *Nature Communications* 10 (1): 4257. https://doi.org/10.1038/s41467-019-12162-0. (Picked up by [Planetary Newsletter](https://www.lpi.usra.edu/planetary_news/2019/09/24/revisiting-the-impact-origin-of-chryse-planitia-on-mars))
    
 *2018*
-- **Pan, L.**,  and Ehlmann, B. L. (2018). Aqueous processes from diverse hydrous minerals in the vicinity of Amazonian aged Lyot crater. *Journal of Geophysical Research: Planets*, 123, 1618–1648. doi:10.029/2017JE005461
+   - **Pan, L.**,  and Ehlmann, B. L. (2018). Aqueous processes from diverse hydrous minerals in the vicinity of Amazonian aged Lyot crater. *Journal of Geophysical Research: Planets*, 123, 1618–1648. doi:10.029/2017JE005461
    - Tian W., L. Wang, **L. Pan** and M. Y. Gong (2018) A giant felsic pyroclastic flow eruption in the Tarim Flood Basalt Province, *Acta Petrologica Sinica*. 34 (1): 63-74
    
  *2017*
-  - Buz, J., B. L. Ehlmann, **L. Pan**, and J. P. Grotzinger (2017), Mineralogy and stratigraphy of the Gale crater rim, wall, and floor units, *J. Geophys. Res. Planets*, 122, 1090–1118,  doi:10.1002/2016JE005163
-  - **Pan, L.**,  Ehlmann, B. L., Carter, J., Ernst, C. M. (2017) The stratigraphy and history of Mars\' northern lowlands through mineralogy of impact craters: A comprehensive survey. *Journal of Geophysical Research: Planets* , 122(9), 1824-1854. doi:10.1002/2017JE005276 . (picked up by [*JGR-Planets* Editor's highlight](https://agupubs.onlinelibrary.wiley.com/article/10.1002/2017JE005276/editor-highlight/10.5555/MIG-HO.820e67dd-1535-4d37-ae36-cef31cc4b0fa); [*The Planetary Mechanics Blog*](http://planetary-mechanics.com/2017/09/17/the-lowlands-of-mars/))
+    - Buz, J., B. L. Ehlmann, **L. Pan**, and J. P. Grotzinger (2017), Mineralogy and stratigraphy of the Gale crater rim, wall, and floor units, *J. Geophys. Res. Planets*, 122, 1090–1118,  doi:10.1002/2016JE005163
+    - **Pan, L.**,  Ehlmann, B. L., Carter, J., Ernst, C. M. (2017) The stratigraphy and history of Mars\' northern lowlands through mineralogy of impact craters: A comprehensive survey. *Journal of Geophysical Research: Planets* , 122(9), 1824-1854. doi:10.1002/2017JE005276 . (picked up by [*JGR-Planets* Editor's highlight](https://agupubs.onlinelibrary.wiley.com/article/10.1002/2017JE005276/editor-highlight/10.5555/MIG-HO.820e67dd-1535-4d37-ae36-cef31cc4b0fa); [*The Planetary Mechanics Blog*](http://planetary-mechanics.com/2017/09/17/the-lowlands-of-mars/))
  
  *before 2017*
-- **Pan, L.**,  and B. L. Ehlmann (2014), Phyllosilicate and hydrated silica detections in the knobby terrains of Acidalia Planitia, northern plains, Mars, *Geophys. Res. Lett.*, 41, 1890–1898, doi:10.1002/2014GL05942
+   - **Pan, L.**,  and B. L. Ehlmann (2014), Phyllosilicate and hydrated silica detections in the knobby terrains of Acidalia Planitia, northern plains, Mars, *Geophys. Res. Lett.*, 41, 1890–1898, doi:10.1002/2014GL05942
    - Shangguan S.M., T. Wei, Y.G. Xu, P. Guan, **L. Pan** (2012) The eruption characteristic of the Tarim flood basalt., *Acta Petrologica Sinica*.28 (4): 1261-1272
 
