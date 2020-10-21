@@ -3,6 +3,8 @@ layout: page
 title: pub
 permalink: /pub/
 ---
+
+
 **Peer-reviewed publications**
 
 *Incoming* 
@@ -33,4 +35,3 @@ permalink: /pub/
  *before 2017*
    - **Pan, L.**,  and B. L. Ehlmann (2014), Phyllosilicate and hydrated silica detections in the knobby terrains of Acidalia Planitia, northern plains, Mars, *Geophys. Res. Lett.*, 41, 1890–1898, doi:10.1002/2014GL05942
    - Shangguan S.M., T. Wei, Y.G. Xu, P. Guan, **L. Pan** (2012) The eruption characteristic of the Tarim flood basalt., *Acta Petrologica Sinica*.28 (4): 1261-1272
-
