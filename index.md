@@ -6,13 +6,6 @@
 layout: home
 ---
 
-************************************************
-
-![martian-sunset](img/418_PIA07997_A_Martian_Sunset (2).jpg){:class="img-responsive"}
-*Image of a martian sunset taken by Spirit rover. Image credit: NASA/JPL*
-
-*****
-
 
 **Intro:**
 
@@ -67,3 +60,10 @@ Email: lu.pan@sund.ku.dk
  - Outreach/fun
     - [Super Planet Crash](http://www.stefanom.org/spc/): 
     - [Eyes on Mars: Curiosity](https://eyes.nasa.gov/curiosity/)
+
+************************************************
+
+![martian-sunset](img/418_PIA07997_A_Martian_Sunset (2).jpg){:class="img-responsive"}
+*Image of a martian sunset taken by Spirit rover. Image credit: NASA/JPL*
+
+************************************************
