@@ -4,7 +4,6 @@ title: cv
 permalink: /cv/
 ---
 
-You could find the full version of my CV [here](./doc/Lu_Pan_CV.pdf).
 
 **EDUCATION**
 - Oct 2012 — Jun 2017 : *California Institute of Technology* __PhD: Planetary Science__
@@ -15,5 +14,12 @@ You could find the full version of my CV [here](./doc/Lu_Pan_CV.pdf).
 - Mar 2020 — Present : University of Copenhagen, GLOBE institute, Center for Star and Planet Formation
    - Mar 2020 — Present : Postdoc supported by *Carlsberg Foundation*
 - Jul 2017 — Feb 2020 : Universite de Lyon, Universite Claude Bernard Lyon 1, LGL-TPE.
-   - Jul 2017- Jul 2019 : Postdoc fellow supported by *Marie Curie Individual Fellowship*
-   - Jul 2019- Feb 2020 : Postdoc fellow supported by *ANR grant "Rocks 'n Mars"*
+   - Jul 2017- Jul 2019 : Postdoc supported by *Marie Curie Individual Fellowship*
+   - Jul 2019- Feb 2020 : Postdoc supported by *ANR grant "Rocks 'n Mars"*
+
+**Fellowship and grants**
+- Marie Skodowska-Curie Actions Individual Fellowship Jul. 2017 – Jul. 2019
+   - Project: GeoInSight
+
+
+You could find the full version of my cv [here](./doc/Lu_Pan_CV.pdf).
