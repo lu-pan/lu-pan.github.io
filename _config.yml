@@ -15,3 +15,9 @@ url: "https://lu-pan.github.io" # the base hostname & protocol for your site
 baseurl: "/"
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+
+header_pages:
+ - cv.md
+ - research.md
+ - pub.md
+ - life.md
