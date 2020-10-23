@@ -28,6 +28,7 @@ As a collaborator on the InSight science team working on the geologic background
 - **Pan, L.**,  C. Quantin-Nataf, B. Tauzin, C. Michaut, M. Golombek, P. Lognonné, P. Grindrod, B. Langlais, T. Gudkova, I. Stepanova, S. Rodriguez, A. Lucas.(2020) Crust heterogeneities and structure in the first kilometers at the dichotomy boundary in western Elysium Planitia and Implications for InSight lander, *Icarus*, 338, [[link]](https://hal.archives-ouvertes.fr/hal-02346218/document).
 - Lognonné, P., W. B. Banerdt,  W. T. Pike, D. Giardini et al. (incl. **L. Pan**) (2020) Constraints on the shallow elastic and anelastic structure of Mars from InSight seismic data, *Nature Geoscience*, [[link]](http://doi.org/10.1038/s41561-020-0536-y).
 - Johnson C., A. Mittelholz et al. (incl. **L. Pan**).(2020)  Crustal and Time-Varying Magnetic Fields at the InSight Landing Site on Mars, *Nature Geoscience*, [[link]](http://doi.org/10.1038/s41561-020-0537-x).
+
 ***************************************************************
 **Unraveling early impact records with crater depth statistics**
 
