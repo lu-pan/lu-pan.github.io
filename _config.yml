@@ -18,5 +18,4 @@ show_excerpts: true # set to false to remove excerpts on the homepage
 header_pages:
  - cv.md
  - research.md
- - pub.md
  - life.md
