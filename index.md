@@ -9,8 +9,6 @@ layout: home
 
 **Intro:**
 
-
-
 <img src="/img/IMG_1152.jpg" alt="lu-pan" width="300"/> 	
 
 Hello world! My name is Lu Pan. I am a planetary geologist interested in the geologic and climatic evolution of planets. I am now affiliated with the University of Copenhagen. Before moving to Copenhagen at beginning of March, I was a Marie Curie postdoc fellow at the University of Lyon. 
@@ -19,7 +17,7 @@ My primary interest is to use remote sensing datasets to understand the chemical
 
 In addition, I am also trying to better understand and develop the techniques to document and resolve geological processes using remote sensing, in particular, through spectroscopy. To disentangle how light interacts with solid materials in the solar system and beyond, we may have a better chance to illuminate the paths during the search for habitable environments elsewhere. 
 
-In terms of planetary missions, I am recently involved in the Mars [InSight lander](https://www.jpl.nasa.gov/missions/insight/) and [Mars Science Laboratory](https://www.jpl.nasa.gov/missions/mars-science-laboratory-curiosity-rover-msl/) missions as an external collaborator. I also participated in the landing site selection and characterization of the Rosalind Franklin rover in the [ExoMars mission](http://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars). 
+I am recently involved in the Mars [InSight lander](https://www.jpl.nasa.gov/missions/insight/) and [Mars Science Laboratory](https://www.jpl.nasa.gov/missions/mars-science-laboratory-curiosity-rover-msl/) missions as an external science collaborator on the mission. I also participated in the landing site selection and characterization of Perserverance rover [Mars 2020](https://mars.nasa.gov/mars2020/) and the Rosalind Franklin rover in the [ExoMars mission](http://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars). 
 
 When I'm not looking at images of Mars, I enjoy playing volleyball 🏐 and hiking ⛰. I'm also a big fan of coffee and tropical fruits 🍍🍍🍍.
 
