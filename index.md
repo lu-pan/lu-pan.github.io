@@ -32,14 +32,6 @@ Centre for Star and Planet Formation <br> Øster Voldgade 5-7 <br> 1350 Københa
 
 Email: lu.pan@sund.ku.dk 
 
-
-*************************************************
-
-**News:**
-- 2020.9 Oxia overview paper accepted!(first official landing site paper for ExoMars2022 --looking forward to what the Rosalind Franklin rover would reveal about the red planet). 
-- 2020.3 I have officially moved to Denmark at the beginning of March, but unfortunately I also had to work from home due to covid-19.
-- 2020.2 We celebrated the publication of InSight papers on Nature Geoscience at the team meeting in Nice, France. Nice weather and location for a team meeting! 
-
 ************************************************
 
 **Useful links**
