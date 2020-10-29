@@ -4,6 +4,7 @@ title: res
 permalink: /research/
 ---
 **Understanding martian mineralogy from orbit**
+
 The timing, duration, and physical state of liquid water on Mars are crucial parameters to understand how the planet's climate has evolved. For example,  the presence of a past global ocean in the northern plains of Mars is highly debated. During my Ph.D., I have implemented an algorithm to analyze hyperspectral images that accentuate the hydrous mineralogy in the northern plains datasets. By re-constructing the stratigraphy of the Martian northern plains based on the mineral distribution in impact craters, I have identified widespread hydrous minerals of similar types and occurrences to the southern highlands. Interestingly, there were no extensive carbonate or evaporative mineral deposits identified that may point to the long-lived global ocean.  
 
 - Please find the IDL package for CRISM data processing [here](https://github.com/mlqc/readcrism).
@@ -14,6 +15,7 @@ The timing, duration, and physical state of liquid water on Mars are crucial par
 
 ***************************************************************
 **Exploring recent aqueous environments on Mars**
+
 Recent Mars is more dynamic than we previously thought. The extent to which liquid water was active on the martian surface in the last 3.5 billion years is still in question. The study of the largest crater in the northern lowlands shows that multiple episodes of liquid water activities have occurred, but the fluvial channels are unrelated to the aqueous alteration evidenced by the hydrous mineralogy. Recently, I have been studying a global sedimentary process in which hydrated silica precipitated in martian surface waters in alluvial fans and deltas of Hesperian and Amazonian age. With detailed measurements of the sediments transported by liquid water and the silica deposits, we can make quantitative constraints on the volume of silica deposits and the temperature/pH of late martian waters. These young sedimentary deposits likely records surface runoff and weathering at low-to-moderate temperatures on Mars.
 
  - **Pan, L.**, J. Carter, C. Quantin-Nataf, M. Pineau, B. Chauvire, L. Le Deit, N. Mangold, B. Rondeau, V. Chevrier. Voluminous silica precipitation in late martian waters, *Planetary Science Journal*, *under revision*.
