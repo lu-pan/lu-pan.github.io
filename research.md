@@ -3,16 +3,23 @@ layout: page
 title: res
 permalink: /research/
 ---
-**Exploring recent aqueous environments on Mars**
+**Understanding martian mineralogy from orbit**
+The timing, duration, and physical state of liquid water on Mars are crucial parameters to understand how the planet's climate has evolved. For example,  the presence of a past global ocean in the northern plains of Mars is highly debated. During my Ph.D., I have implemented an algorithm to analyze hyperspectral images that accentuate the hydrous mineralogy in the northern plains datasets. By re-constructing the stratigraphy of the Martian northern plains based on the mineral distribution in impact craters, I have identified widespread hydrous minerals of similar types and occurrences to the southern highlands. Interestingly, there were no extensive carbonate or evaporative mineral deposits identified that may point to the long-lived global ocean.  
 
-The timing, duration, and physical state of liquid water on Mars are crucial parameters to understand how the planet's climate has evolved. During my Ph.D., I have implemented a data procesing pipeline to analyze hyperspectral images that accentuate the hydrous mineralogy in the CRISM datasets. Using this dataset incombination with topography and high resolution imagery, we could identify and understand in detail what the aqueous environments look like through the hisory of Mars. 
+- Please find the IDL package for CRISM data processing [here](https://github.com/mlqc/readcrism).
+
+ - **Pan, L.**,  Ehlmann, B. L., Carter, J., Ernst, C. M. (2017) The stratigraphy and history of Mars\' northern lowlands through mineralogy of impact craters: A comprehensive survey. *Journal of Geophysical Research: Planets* , 122(9), 1824-1854. [[link]](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2017JE005276). (picked up by [*JGR-Planets* Editor's highlight](https://agupubs.onlinelibrary.wiley.com/article/10.1002/2017JE005276/editor-highlight/10.5555/MIG-HO.820e67dd-1535-4d37-ae36-cef31cc4b0fa); [*The Planetary Mechanics Blog*](http://planetary-mechanics.com/2017/09/17/the-lowlands-of-mars/))
+ 
+ - **Pan, L.**,  and B. L. Ehlmann (2014), Phyllosilicate and hydrated silica detections in the knobby terrains of Acidalia Planitia, northern plains, Mars, *Geophys. Res. Lett.*, 41, 1890–1898, [[link]](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2014GL05942).
+
+***************************************************************
+**Exploring recent aqueous environments on Mars**
+Recent Mars is more dynamic than we previously thought. The extent to which liquid water was active on the martian surface in the last 3.5 billion years is still in question. The study of the largest crater in the northern lowlands shows that multiple episodes of liquid water activities have occurred, but the fluvial channels are unrelated to the aqueous alteration evidenced by the hydrous mineralogy. Recently, I have been studying a global sedimentary process in which hydrated silica precipitated in martian surface waters in alluvial fans and deltas of Hesperian and Amazonian age. With detailed measurements of the sediments transported by liquid water and the silica deposits, we can make quantitative constraints on the volume of silica deposits and the temperature/pH of late martian waters. These young sedimentary deposits likely records surface runoff and weathering at low-to-moderate temperatures on Mars.
+
  - **Pan, L.**, J. Carter, C. Quantin-Nataf, M. Pineau, B. Chauvire, L. Le Deit, N. Mangold, B. Rondeau, V. Chevrier. Voluminous silica precipitation in late martian waters, *Planetary Science Journal*, *under revision*.
 
  - **Pan, L.**,  and Ehlmann, B. L. (2018). Aqueous processes from diverse hydrous minerals in the vicinity of Amazonian aged Lyot crater. *Journal of Geophysical Research: Planets*, 123, 1618–1648, [[link]](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2017JE005461).
    
- - **Pan, L.**,  Ehlmann, B. L., Carter, J., Ernst, C. M. (2017) The stratigraphy and history of Mars\' northern lowlands through mineralogy of impact craters: A comprehensive survey. *Journal of Geophysical Research: Planets* , 122(9), 1824-1854. [[link]](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2017JE005276). (picked up by [*JGR-Planets* Editor's highlight](https://agupubs.onlinelibrary.wiley.com/article/10.1002/2017JE005276/editor-highlight/10.5555/MIG-HO.820e67dd-1535-4d37-ae36-cef31cc4b0fa); [*The Planetary Mechanics Blog*](http://planetary-mechanics.com/2017/09/17/the-lowlands-of-mars/))
- 
- - **Pan, L.**,  and B. L. Ehlmann (2014), Phyllosilicate and hydrated silica detections in the knobby terrains of Acidalia Planitia, northern plains, Mars, *Geophys. Res. Lett.*, 41, 1890–1898, [[link]](https://agupubs.onlinelibrary.wiley.com/doi/10.1002/2014GL05942).
 
 ***************************************************************
 **Studying landing sites and support current space explorations**
