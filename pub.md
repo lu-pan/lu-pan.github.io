@@ -10,12 +10,17 @@ permalink: /pub/
 *Incoming* 
   - **Pan, L.**,  C. Quantin-Nataf, L. Mandon, M. Martinot, P. Beck. Endmember variability in spectral unmixing on hyperspectral imaging dataset -implications for planetary surfaces. *in prep*.
   - Mandon L., P. Beck, C. Quantin-Nataf, E. Dehouck, A. Pommerol, Z. Yoldi, R. Cerubini, **L.Pan**, M. Martinot, J.-A. Barrat, B. Reynard, Martian meteorites reflectance and implications forin situ studies, *in prep*.
+  - Breton S., C. Quantin-Nataf,\textbf{ L. Pan},  L. Mandon, M. Volat, Insight into Martian crater degradation history based on crater depth statistics.*Icarus*, *under review*.
+  - Brustel C., J. Flahaut, C. Quantin, \textbf{L. Pan}, L. Mandon, M. Martinot, P. Thollot, G. R. Davies, Global scale remnants of Martian pristine Noachian crust, *JGR-Planets*, *under review*.
   - Liu Z., Y. Liu, **L. Pan**, J. Zhao,  Inverted channel belt to the East of Tempe Terra, Mars, and implications for persistent fluvial activity. *Earth and Planetary Science Letters*, *under review*. arXiv preprint arXiv:2009.02699 (2020).
-  - **Pan, L.**, J. Carter, C. Quantin-Nataf, M. Pineau, B. Chauvire, L. Le Deit, N. Mangold, B. Rondeau, V. Chevrier. Voluminous silica precipitation in late martian waters, *Planetary Science Journal*, *under revision*.
-  - Mandon L., A. Parkes Bowen, C. Quantin-Nataf, J. C. Bridges, J. Carter, **L. Pan**, P. Beck, E. Dehouck, M. Volat, N. Thomas, G. Cremonese, L. L. Tornabene, Morphological and spectral diversity of the clay-bearing unit at the ExoMars landing site Oxia Planum, *Astrobiology*, *under revision*.
+  - **Pan, L.**, J. Carter, C. Quantin-Nataf, M. Pineau, B. Chauvire, L. Le Deit, N. Mangold, B. Rondeau, V. Chevrier. Voluminous silica precipitation in late martian waters, *Planetary Science Journal*, *under review*.
+  - Mandon L., A. Parkes Bowen, C. Quantin-Nataf, J. C. Bridges, J. Carter, **L. Pan**, P. Beck, E. Dehouck, M. Volat, N. Thomas, G. Cremonese, L. L. Tornabene, Morphological and spectral diversity of the clay-bearing unit at the ExoMars landing site Oxia Planum, *Astrobiology*, *under review*.
+ 
+ *2021*
+   - Quantin-Nataf C., J. Carter, L. Mandon, P. Thollot, M. Balme, M. Volat,**L. Pan**, D., Loizeau, C. Millot, S. Breton, E. Dehouck, P. Fawdon, S. Gupta, J. Davis, P.M., Grindrod, A. Pacifici, B. Bultel, P. Allemand, A. Ody, L. Lozach, J. Broyer,  Oxia Planum – the landing site for the 2022 ExoMars “Rosalind Franklin” Rover Mission: geological context and pre-landing interpretation,  *Astrobiology*, *ahead of print*, [[link]](http://doi.org/10.1089/ast.2019.2191).
+
  
 *2020*
-  - Quantin-Nataf C., J. Carter, L. Mandon, P. Thollot, M. Balme, M. Volat,**L. Pan**, D., Loizeau, C. Millot, S. Breton, E. Dehouck, P. Fawdon, S. Gupta, J. Davis, P.M., Grindrod, A. Pacifici, B. Bultel, P. Allemand, A. Ody, L. Lozach, J. Broyer,  Oxia Planum – the landing site for the 2022 ExoMars “Rosalind Franklin” Rover Mission: geological context and pre-landing interpretation,  *Astrobiology*, *accepted*.
    - Perrin, C., Rodriguez, S., Jacob, A., Lucas, A., Spiga, A., Murdoch, N., Lorenz, R., Daubar, I. J., **L. Pan**, Kawamura, T., Lognonne, P., Banfield, D., Banks, M. E., Garcia, R. F., Newman, C. E., Ohja, L., Widmer-Schnidrig, R., McEwen, A. S., Banerdt, W. B. (2020) Dust Devil Tracks Around the InSight Landing Site, Mars: 8 Months of Monitoring from HiRISE Satellite Images and Comparison with in-situ Atmospheric Data , *Geophy. Res. Lett.*, [[link]](http://doi.org/10.1029/2020GL087234).
   - **Pan, L.**,  C. Quantin-Nataf, B. Tauzin, C. Michaut, M. Golombek, P. Lognonné, P. Grindrod, B. Langlais, T. Gudkova, I. Stepanova, S. Rodriguez, A. Lucas.(2020) Crust heterogeneities and structure in the first kilometers at the dichotomy boundary in western Elysium Planitia and Implications for InSight lander, *Icarus*, 338, [[link]](https://hal.archives-ouvertes.fr/hal-02346218/document).
    - Lognonné, P., W. B. Banerdt,  W. T. Pike, D. Giardini et al. (incl. **L. Pan**) (2020) Constraints on the shallow elastic and anelastic structure of Mars from InSight seismic data, *Nature Geoscience*, [[link]](http://doi.org/10.1038/s41561-020-0536-y).
