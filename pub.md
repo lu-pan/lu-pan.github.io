@@ -8,16 +8,16 @@ permalink: /pub/
 **Peer-reviewed publications**
 
 *Incoming* 
-  - **Pan, L.**,  C. Quantin-Nataf, L. Mandon, M. Martinot, P. Beck. Endmember variability in spectral unmixing on hyperspectral imaging dataset -implications for planetary surfaces. *in prep*.
-  - Mandon L., P. Beck, C. Quantin-Nataf, E. Dehouck, A. Pommerol, Z. Yoldi, R. Cerubini, **L.Pan**, M. Martinot, J.-A. Barrat, B. Reynard, Martian meteorites reflectance and implications forin situ studies, *in prep*.
-  - Breton S., C. Quantin-Nataf,\textbf{ L. Pan},  L. Mandon, M. Volat, Insight into Martian crater degradation history based on crater depth statistics.*Icarus*, *under review*.
-  - Brustel C., J. Flahaut, C. Quantin, \textbf{L. Pan}, L. Mandon, M. Martinot, P. Thollot, G. R. Davies, Global scale remnants of Martian pristine Noachian crust, *JGR-Planets*, *under review*.
-  - Liu Z., Y. Liu, **L. Pan**, J. Zhao,  Inverted channel belt to the East of Tempe Terra, Mars, and implications for persistent fluvial activity. *Earth and Planetary Science Letters*, *under review*. arXiv preprint arXiv:2009.02699 (2020).
-  - **Pan, L.**, J. Carter, C. Quantin-Nataf, M. Pineau, B. Chauvire, L. Le Deit, N. Mangold, B. Rondeau, V. Chevrier. Voluminous silica precipitation in late martian waters, *Planetary Science Journal*, *under review*.
-  - Mandon L., A. Parkes Bowen, C. Quantin-Nataf, J. C. Bridges, J. Carter, **L. Pan**, P. Beck, E. Dehouck, M. Volat, N. Thomas, G. Cremonese, L. L. Tornabene, Morphological and spectral diversity of the clay-bearing unit at the ExoMars landing site Oxia Planum, *Astrobiology*, *under review*.
+  - **Pan, L.**,  C. Quantin-Nataf, L. Mandon, M. Martinot, P. Beck. Endmember variability in spectral unmixing on hyperspectral imaging dataset -implications for planetary surfaces. *under review*.
+  - Breton S., C. Quantin-Nataf, **L. Pan**,  L. Mandon, M. Volat, Insight into Martian crater degradation history based on crater depth statistics.*Icarus*, *under review*.
+  - Brustel C., J. Flahaut, C. Quantin, **L. Pan**, L. Mandon, M. Martinot, P. Thollot, G. R. Davies, Global scale remnants of Martian pristine Noachian crust, *JGR-Planets*, *under review*.
  
  *2021*
-   - Quantin-Nataf C., J. Carter, L. Mandon, P. Thollot, M. Balme, M. Volat,**L. Pan**, D., Loizeau, C. Millot, S. Breton, E. Dehouck, P. Fawdon, S. Gupta, J. Davis, P.M., Grindrod, A. Pacifici, B. Bultel, P. Allemand, A. Ody, L. Lozach, J. Broyer,  Oxia Planum – the landing site for the 2022 ExoMars “Rosalind Franklin” Rover Mission: geological context and pre-landing interpretation,  *Astrobiology*, *ahead of print*, [[link]](http://doi.org/10.1089/ast.2019.2191).
+   - Mandon L., P. Beck, C. Quantin-Nataf, E. Dehouck, A. Pommerol, Z. Yoldi, R. Cerubini, **L.Pan**, M. Martinot, J.-A. Barrat, B. Reynard, Martian meteorites reflectance and implications forin situ studies, *Icarus*, *in press*, [[link]](https://doi.org/10.1016/j.icarus.2021.114517).
+  - **Pan, L.**, J. Carter, C. Quantin-Nataf, M. Pineau, B. Chauvire, L. Le Deit, N. Mangold, B. Rondeau, V. Chevrier. Voluminous silica precipitation in late martian waters, *Planetary Science Journal*, (2021) 2 65, [[link]](https://doi.org/10.3847/PSJ/abe541).
+   - Liu Z., Y. Liu, **L. Pan**, J. Zhao,  Inverted channel belt to the East of Tempe Terra, Mars, and implications for persistent fluvial activity. *Earth and Planetary Science Letters*, (2021)562, 116854, [[link]](https://doi.org/10.1016/j.epsl.2021.116854).
+  - Mandon L., A. Parkes Bowen, C. Quantin-Nataf, J. C. Bridges, J. Carter, **L. Pan**, P. Beck, E. Dehouck, M. Volat, N. Thomas, G. Cremonese, L. L. Tornabene, Morphological and spectral diversity of the clay-bearing unit at the ExoMars landing site Oxia Planum, *Astrobiology*, 2021 21:4, 464-480., [[link]](https://doi.org/10.1089/ast.2020.2292).
+   - Quantin-Nataf C., J. Carter, L. Mandon, P. Thollot, M. Balme, M. Volat,**L. Pan**, D., Loizeau, C. Millot, S. Breton, E. Dehouck, P. Fawdon, S. Gupta, J. Davis, P.M., Grindrod, A. Pacifici, B. Bultel, P. Allemand, A. Ody, L. Lozach, J. Broyer,  Oxia Planum – the landing site for the 2022 ExoMars “Rosalind Franklin” Rover Mission: geological context and pre-landing interpretation,  *Astrobiology*, *2021*, [[link]](http://doi.org/10.1089/ast.2019.2191).
 
  
 *2020*
