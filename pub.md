@@ -8,12 +8,13 @@ permalink: /pub/
 **Peer-reviewed publications**
 
 *Incoming* 
-  - **Pan, L.**,  C. Quantin-Nataf, L. Mandon, M. Martinot, P. Beck. Endmember variability in spectral unmixing on hyperspectral imaging dataset -implications for planetary surfaces. *under review*.
+  - **Pan, L.**,  C. Quantin-Nataf, L. Mandon, M. Martinot, P. Beck. Endmember variability in spectral unmixing on hyperspectral imaging dataset -implications for planetary surfaces. *under revision*.
+  - Brustel C., J. Flahaut, C. Quantin, **L. Pan**, L. Mandon, M. Martinot, P. Thollot, G. R. Davies, Global scale remnants of Martian pristine Noachian crust, *JGR-Planets*, *under revision*.
   - Breton S., C. Quantin-Nataf, **L. Pan**,  L. Mandon, M. Volat, Insight into Martian crater degradation history based on crater depth statistics.*Icarus*, *under review*.
-  - Brustel C., J. Flahaut, C. Quantin, **L. Pan**, L. Mandon, M. Martinot, P. Thollot, G. R. Davies, Global scale remnants of Martian pristine Noachian crust, *JGR-Planets*, *under review*.
  
  *2021*
-   - Mandon L., P. Beck, C. Quantin-Nataf, E. Dehouck, A. Pommerol, Z. Yoldi, R. Cerubini, **L.Pan**, M. Martinot, J.-A. Barrat, B. Reynard, Martian meteorites reflectance and implications forin situ studies, *Icarus*, *in press*, [[link]](https://doi.org/10.1016/j.icarus.2021.114517).
+   - Knapmeyer-Endrun B., M. P. Panning et al. (incl. **L. Pan**), Thickness and structure of the Martian crust from InSight seismic data, *Science*, 2021, 373, 6553, pp. 438-443, [[link]](https://doi.org/10.1126/science.abf8966).
+   - Mandon L., P. Beck, C. Quantin-Nataf, E. Dehouck, A. Pommerol, Z. Yoldi, R. Cerubini, **L.Pan**, M. Martinot, J.-A. Barrat, B. Reynard, Martian meteorites reflectance and implications forin situ studies, *Icarus*,  366, 114517, [[link]](https://doi.org/10.1016/j.icarus.2021.114517).
   - **Pan, L.**, J. Carter, C. Quantin-Nataf, M. Pineau, B. Chauvire, L. Le Deit, N. Mangold, B. Rondeau, V. Chevrier. Voluminous silica precipitation in late martian waters, *Planetary Science Journal*, (2021) 2 65, [[link]](https://doi.org/10.3847/PSJ/abe541).
    - Liu Z., Y. Liu, **L. Pan**, J. Zhao,  Inverted channel belt to the East of Tempe Terra, Mars, and implications for persistent fluvial activity. *Earth and Planetary Science Letters*, (2021)562, 116854, [[link]](https://doi.org/10.1016/j.epsl.2021.116854).
   - Mandon L., A. Parkes Bowen, C. Quantin-Nataf, J. C. Bridges, J. Carter, **L. Pan**, P. Beck, E. Dehouck, M. Volat, N. Thomas, G. Cremonese, L. L. Tornabene, Morphological and spectral diversity of the clay-bearing unit at the ExoMars landing site Oxia Planum, *Astrobiology*, 2021 21:4, 464-480., [[link]](https://doi.org/10.1089/ast.2020.2292).
