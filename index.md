@@ -9,9 +9,10 @@ layout: home
 
 **Intro:**
 
-<img src="/img/IMG_1152.jpg" alt="lu-pan" width="300"/> 	
+<img src="/img/lu.jpg" alt="lu-pan" width="300"/> 	
+Hello world! My name is Lu Pan. 
 
-Hello world! My name is Lu Pan. I am a planetary geologist interested in the geologic and climatic evolution of planets. I am now affiliated with the University of Copenhagen. Before moving to Copenhagen at beginning of March, I was a Marie Curie postdoc fellow at the University of Lyon. 
+I am a planetary geologist interested in the geologic and climatic evolution of planets. I am now affiliated with the University of Copenhagen. Before moving to Copenhagen at beginning of March, I was a Marie Curie postdoc fellow at the University of Lyon. 
 
 My primary interest is to use remote sensing datasets to understand the chemical and physical processes that shape the surfaces of planetary bodies, and the resulting planetary evolution through time. In particular, I aim at combining the mineralogic and morphologic information to improve our view of the interior as well as the surface environments of our red planet -Mars.
 
